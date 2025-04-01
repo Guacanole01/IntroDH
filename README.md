@@ -1,1 +1,1 @@
-In case there isn't a class repo to fork and pull 
+There wasn't a class repo to fork and pull from
